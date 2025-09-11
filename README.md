@@ -22,9 +22,9 @@ Welcome to my GitHub project portfolio! This repository serves as a central hub 
 ⸻
 
 📬 Connect With Me
-	•	GitHub: github.com/kunalkishor
-	•	LinkedIn: linkedin.com/in/kunalkishor
-	•	Email: kunal@example.com
+	•	GitHub: https://github.com/Kunal090104
+	•	LinkedIn: https://www.linkedin.com/in/kunal-kishor-04aa222b2/
+	•	Email: kishorkunal382@gmail.com
 
 ⸻
 
